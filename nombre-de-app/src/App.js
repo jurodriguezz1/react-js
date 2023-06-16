@@ -1,10 +1,10 @@
 
-import { ItemListContainer } from "./components/ItemListContainer"
-import NavBar  from "./components/NavBar"
+import { ItemListContainer }  from "./components/ItemListContainer"
+import BasicExample from "./components/NavBar"
 
 export default function App() {
   <>
-    <NavBar />
+    <BasicExample />
     <ItemListContainer greeting= "Hola"/>
     </>
 }

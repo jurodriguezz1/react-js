@@ -6,7 +6,7 @@ const styles = {
         width: "auto",
     },
     span: {
-        color: "black",
+        color: "white",
         paddingLeft: 10,
     },
 }
