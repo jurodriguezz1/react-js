@@ -1,0 +1,11 @@
+{
+    "productos": [
+        {
+            "_id":"1",
+            "nombre_producto":"Puffer Mia",
+            "precio_unitario":"18.000"
+            "stock": 5,
+            "imagenes": "../img/mia"
+        }
+    ]
+}
