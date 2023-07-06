@@ -4,6 +4,7 @@ import BasicExample from "./components/NavBar"
 import { BrowserRouter , Routes , Route } from "react-router-dom";
 
 export default function App() {
+  return (
   <>
   <BrowserRouter>
     <BasicExample />
@@ -15,5 +16,6 @@ export default function App() {
     <ItemListContainer greeting= "Hola"/>
     </BrowserRouter>
     </>
+  );
 }
 

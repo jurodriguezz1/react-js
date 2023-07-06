@@ -1,0 +1,29 @@
+{
+    "productos": [
+        {
+            "ropa_id":1,
+            "ropa_nombre": "puffer mia",
+            "precio_unitario":"18.000"
+        },
+        {
+            "id":2,
+            "nombre": "puffer alaska",
+            "precio_unitario":"22.000"
+        },
+        {
+            "id":3,
+            "nombre": "parka premium",
+            "precio_unitario":"25.500"
+        },
+        {
+            "id":4,
+            "nombre": "parka corderito",
+            "precio_unitario":"22.000"
+        },
+        {
+            "id":5,
+            "nombre": "puffer vegan",
+            "precio_unitario":"30.000"
+        }
+    ]
+}
