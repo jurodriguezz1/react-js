@@ -1,0 +1,17 @@
+[
+    {
+    "id": 1,
+    "name": "Puffer mia",
+    "stock": 5
+    },
+    {
+    "id": 2,
+    "name": "Puffer Vegan",
+    "stock": 2
+    },
+    {
+    "id": 3,
+    "name": "Pufer Alaska",
+    "stock": 0
+    }
+]
